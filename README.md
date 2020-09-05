@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@vipin6673-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vipin6673)](https://twitter.com/vipin6673) [![Linkedin Badge](https://img.shields.io/badge/-vipin6673-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipin6673/)](https://www.linkedin.com/in/vipin6673/) 
 [![Gmail Badge](https://img.shields.io/badge/-vipin6673@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipin6673@gmail.com)](mailto:vipin6673@gmail.com)
 
-I am Vipin Yadav 😃. I am from Coimbatore, India and currently doing my B.E. from Sri Eshwar College of Engineering Coimbatore 🏫.I love to explore and learn about new things.
+I am Vipin Yadav 😃. I am from Ayodhya, India and currently doing my B.E. from Sri Eshwar College of Engineering Coimbatore 🏫.I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
