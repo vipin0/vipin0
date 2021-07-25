@@ -11,9 +11,8 @@ I am Vipin Yadav 😃. I am from Ayodhya, India and currently doing my B.E. from
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
+- Backend development using **Flask,Django, Django REST Framework**
 - Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
 - Mobile application development using **Android**
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
