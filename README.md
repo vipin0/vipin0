@@ -24,9 +24,9 @@ Talk to me about
 - 🎯 Portfolio site: [Portfolio](https://vipin0.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual. -->
 
-![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin0&hide=["issues"]&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin0&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin0&hide=["issues"]&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin0&langs_count=8&layout=compact)]
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipin0&count_private=true&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipin0&count_private=true&theme=vue)]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vipin0.vipin0)
 
