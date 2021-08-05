@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -16,14 +16,16 @@ Talk to me about
 - Mobile application development using **Android**
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
-## HelloWorld !! 🤔
+## Projects and websites !! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Coding site: [Selfcode.in](https://selfcode.in/)
 - 📫 Technology News: [Technewsblog](https://technewsblog.in/)
 - 🎯 Portfolio site: [Portfolio](https://vipin0.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin0&hide=["issues"]&show_icons=true)
+![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin0&hide=["issues"]&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin0&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vipin0&theme=vue)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vipin0.vipin0)
 
