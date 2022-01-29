@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vipin6673@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipin6673@gmail.com)](mailto:vipin6673@gmail.com)
 
 
-I am Vipin Yadav 😃. I am from Ayodhya, India and currently doing my B.E. from Sri Eshwar College of Engineering Coimbatore 🏫.I love to explore and learn about new things.
+Hi, I'm Vipin from Ayodhya India, currently pursuing my Bachelor's of Engineering in computer science. I love to explore and learn new things and i'm very passionate about cloud technologies and machine learning.
 
 ## ⚡ Technologies
 Talk to me about
