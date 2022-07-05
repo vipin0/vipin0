@@ -4,7 +4,7 @@ Hi 👋 My name is Vipin Yadav
 Backend Developer & Cloud enthusiastic
 --------------------------------------
 
-Hi, I'm Vipin from Ayodhya India, currently pursuing my Bachelor's of Engineering in computer science. I love to explore and learn new things and i'm very passionate about cloud technologies and machine learning.
+Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'm very passionate about learning cloud & DevOps technologies. I'm also intrested in backend development using Django & Flask.
 
 * 🌍  I'm based in Ayodhya, India.
 * 🖥️  See my portfolio at [vipin0.github.io](http://vipin0.github.io/)
