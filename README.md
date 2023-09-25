@@ -59,7 +59,7 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 
 - 🔭 I’m currently working on **Cloud & DevOps**
 
-- 🌱 I’m currently learning **Cloud & DevOps**
+- 🌱 I’m currently learning **Kubernetes and FullStack Development**
 
 - 👯 I’m looking to collaborate on **DevOps & Backend Development**
 
