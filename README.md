@@ -93,6 +93,11 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/35ff4ddc688a442798c4e9368815d7a0.jpeg" alt="How to Format Terraform Code: A Beginner's Guide" width="250px" align="left" /></a>
+<a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><strong>How to Format Terraform Code: A Beginner's Guide</strong></a>
+<br/> Introduction
+Terraform is a powerful Infrastructure as Code (IaC) tool that allows you to define, provision, and manage your infrastructure in a declarative way. However, as your Terraform projects grow, maintaining clean and well-structured code bec... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.vipinyadav.in//connect-to-ec2-instances-using-ec2-instance-connect-endpoint-without-public-ip" title="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686736695870/f25295ab-5285-4da6-a60a-0c099ebed7da.png" alt="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP" width="250px" align="left" /></a>
 <a href="https://blog.vipinyadav.in//connect-to-ec2-instances-using-ec2-instance-connect-endpoint-without-public-ip" title="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP"><strong>Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP</strong></a>
 <br/> EC2 Instance Connect Endpoint allows you to connect to an instance via SSH or RDP without requiring the instance to have a public IPv4 address. Once you create an EC2 Instance Connect Endpoint in a subnet, you can use the endpoint to connect to any i... </p> <br/> <br/>
