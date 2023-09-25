@@ -63,9 +63,9 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 
 - 👯 I’m looking to collaborate on **DevOps & Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://vipinyadav.in](https://vipinyadav.in)
+- 👨‍💻 All of my projects are available at [vipinyadav.in](https://vipinyadav.in)
 
-- 📚 Read articles at [https://blog.vipinyadav.in](https://blog.vipinyadav.in) & [https://vipiny.medium.com/](https://vipiny.medium.com/)
+- 📚 Read articles at [blog.vipinyadav.in](https://blog.vipinyadav.in) & [vipiny.medium.com](https://vipiny.medium.com/)
 
 - 💬 Ask me about **Cloud, DevOps, Django, Flask, DRF**
 
