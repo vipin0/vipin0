@@ -93,6 +93,10 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FWoq_ldWlNQ/upload/262b2eef4399c1236c16034ae6db8f02.jpeg" alt="Terraform: A Beginner's Guide" width="250px" align="left" /></a>
+<a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><strong>Terraform: A Beginner's Guide</strong></a>
+<br/> Welcome to the world of Terraform, a powerful infrastructure-as-code (IaC) tool that enables you to define and provision your infrastructure using simple, human-readable configuration files. If you're new to Terraform, fear not! This beginner's guide... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/35ff4ddc688a442798c4e9368815d7a0.jpeg" alt="How to Format Terraform Code: A Beginner's Guide" width="250px" align="left" /></a>
 <a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><strong>How to Format Terraform Code: A Beginner's Guide</strong></a>
 <br/> Introduction
