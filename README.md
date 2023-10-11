@@ -93,6 +93,11 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dMUt0X3f59Q/upload/75b0a7a3e502c525a06b3b10e4adeb40.jpeg" alt="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide" width="250px" align="left" /></a>
+<a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><strong>How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide</strong></a>
+<br/> Introduction:
+Terraform is an excellent tool for managing infrastructure as code, but handling the state files can be a challenge, especially in a team setting. Storing your Terraform state in Azure Blob Storage is a great way to centralize and manag... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FWoq_ldWlNQ/upload/262b2eef4399c1236c16034ae6db8f02.jpeg" alt="Terraform: A Beginner's Guide" width="250px" align="left" /></a>
 <a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><strong>Terraform: A Beginner's Guide</strong></a>
 <br/> Welcome to the world of Terraform, a powerful infrastructure-as-code (IaC) tool that enables you to define and provision your infrastructure using simple, human-readable configuration files. If you're new to Terraform, fear not! This beginner's guide... </p> <br/> <br/>
