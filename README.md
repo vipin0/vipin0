@@ -50,7 +50,7 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vipin0.vipin0)
  -->
 
-
+[![An image of @vipin0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipin0)](https://holopin.io/@vipin0)
 
 <h1 align="center">Hi 👋,  I'm Vipin</h1>
 <h3 align="center">A Cloud & DevOps/Full Stack engineer</h3>
