@@ -93,6 +93,11 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.vipinyadav.in//a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine" title="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GSiEeoHcNTQ/upload/fd14e1799f3b707f4789af8d04d212f0.jpeg" alt="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine" width="250px" align="left" /></a>
+<a href="https://blog.vipinyadav.in//a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine" title="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine"><strong>A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine</strong></a>
+<br/> Introduction
+In the realm of modern software development and deployment, Kubernetes has emerged as a powerful tool for managing containerized applications. It offers scalability, resilience, and ease of management. However, setting up a Kubernetes cl... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dMUt0X3f59Q/upload/75b0a7a3e502c525a06b3b10e4adeb40.jpeg" alt="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide" width="250px" align="left" /></a>
 <a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><strong>How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide</strong></a>
 <br/> Introduction:
