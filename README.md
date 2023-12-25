@@ -71,7 +71,9 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 
 - 📫 How to reach me **vipin6673@gmail.com**
 <hr>
+
 # Latest Blog Posts 👇
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.vipinyadav.in//a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine" title="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GSiEeoHcNTQ/upload/fd14e1799f3b707f4789af8d04d212f0.jpeg" alt="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine" width="250px" align="left" /></a>
