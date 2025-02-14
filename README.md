@@ -75,6 +75,12 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+- [Deploying a Scalable and Highly Available Web Application on AWS with Terraform](https://blog.vipinyadav.in/deploying-a-scalable-and-highly-available-web-application-on-aws-with-terraform)
+- [A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine](https://blog.vipinyadav.in/a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine)
+- [How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide](https://blog.vipinyadav.in/how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide)
+- [Terraform: A Beginner's Guide](https://blog.vipinyadav.in/terraform-a-beginners-guide)
+- [How to Format Terraform Code: A Beginner's Guide](https://blog.vipinyadav.in/how-to-format-terraform-code-a-beginners-guide)
+- [Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP](https://blog.vipinyadav.in/connect-to-ec2-instances-using-ec2-instance-connect-endpoint-without-public-ip)
 
 <!-- HASHNODE_BLOG:END -->
 <hr>
