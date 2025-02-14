@@ -75,29 +75,7 @@ Hi, I'm Vipin from Ayodhya, India. I love to explore and learn new things and i'
 # Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://blog.vipinyadav.in//a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine" title="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GSiEeoHcNTQ/upload/fd14e1799f3b707f4789af8d04d212f0.jpeg" alt="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine" width="250px" align="left" /></a>
-<a href="https://blog.vipinyadav.in//a-beginners-guide-setting-up-a-kubernetes-cluster-using-vagrant-vm-on-your-local-machine" title="A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine"><strong>A Beginner's Guide: Setting up a Kubernetes Cluster using Vagrant VM on Your Local Machine</strong></a>
-<br/> Introduction
-In the realm of modern software development and deployment, Kubernetes has emerged as a powerful tool for managing containerized applications. It offers scalability, resilience, and ease of management. However, setting up a Kubernetes cl... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dMUt0X3f59Q/upload/75b0a7a3e502c525a06b3b10e4adeb40.jpeg" alt="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide" width="250px" align="left" /></a>
-<a href="https://blog.vipinyadav.in//how-to-store-terraform-state-in-azure-blob-storage-a-step-by-step-guide" title="How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide"><strong>How to Store Terraform State in Azure Blob Storage: A Step-by-Step Guide</strong></a>
-<br/> Introduction:
-Terraform is an excellent tool for managing infrastructure as code, but handling the state files can be a challenge, especially in a team setting. Storing your Terraform state in Azure Blob Storage is a great way to centralize and manag... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FWoq_ldWlNQ/upload/262b2eef4399c1236c16034ae6db8f02.jpeg" alt="Terraform: A Beginner's Guide" width="250px" align="left" /></a>
-<a href="https://blog.vipinyadav.in//terraform-a-beginners-guide" title="Terraform: A Beginner's Guide"><strong>Terraform: A Beginner's Guide</strong></a>
-<br/> Welcome to the world of Terraform, a powerful infrastructure-as-code (IaC) tool that enables you to define and provision your infrastructure using simple, human-readable configuration files. If you're new to Terraform, fear not! This beginner's guide... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/35ff4ddc688a442798c4e9368815d7a0.jpeg" alt="How to Format Terraform Code: A Beginner's Guide" width="250px" align="left" /></a>
-<a href="https://blog.vipinyadav.in//how-to-format-terraform-code-a-beginners-guide" title="How to Format Terraform Code: A Beginner's Guide"><strong>How to Format Terraform Code: A Beginner's Guide</strong></a>
-<br/> Introduction
-Terraform is a powerful Infrastructure as Code (IaC) tool that allows you to define, provision, and manage your infrastructure in a declarative way. However, as your Terraform projects grow, maintaining clean and well-structured code bec... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.vipinyadav.in//connect-to-ec2-instances-using-ec2-instance-connect-endpoint-without-public-ip" title="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686736695870/f25295ab-5285-4da6-a60a-0c099ebed7da.png" alt="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP" width="250px" align="left" /></a>
-<a href="https://blog.vipinyadav.in//connect-to-ec2-instances-using-ec2-instance-connect-endpoint-without-public-ip" title="Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP"><strong>Connect to EC2 Instances using EC2 Instance Connect Endpoint without public IP</strong></a>
-<br/> EC2 Instance Connect Endpoint allows you to connect to an instance via SSH or RDP without requiring the instance to have a public IPv4 address. Once you create an EC2 Instance Connect Endpoint in a subnet, you can use the endpoint to connect to any i... </p> <br/> <br/>
+
 <!-- HASHNODE_BLOG:END -->
 <hr>
 <h3 align="left">Connect with me:</h3>
